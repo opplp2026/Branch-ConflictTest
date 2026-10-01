@@ -1,3 +1,4 @@
+#main: Document2 will be retained untill v5.0.0
 // C program for Merge Sort
 #include <stdio.h>
 #include <stdlib.h>
